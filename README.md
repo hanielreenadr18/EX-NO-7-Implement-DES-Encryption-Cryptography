@@ -1,5 +1,6 @@
 # EX-NO-7-Implement-DES-Encryption
-
+## NAME: HANIEL REENA D R
+## REGNO: 2305001008
 ## Aim:
 
 To use the Data Encryption Standard (DES) algorithm for a practical application, such as securing sensitive data transmission in financial transactions.
@@ -15,7 +16,7 @@ To use the Data Encryption Standard (DES) algorithm for a practical application,
 4. DES applies initial and final permutations along with 16 rounds of substitution and permutation transformations to produce ciphertext.
 
 ## Program:
-```
+```C
 #include <stdio.h>
 #include <string.h>
 
@@ -44,6 +45,7 @@ int main(){
 
 ## Output:
 
+<img width="465" height="198" alt="image" src="https://github.com/user-attachments/assets/323585b3-f09c-44b9-8a58-560a91819915" />
 
 
 ## Result:
